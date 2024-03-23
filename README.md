@@ -1,5 +1,4 @@
 # getgrass
-# getgrass
 ## installation
 install python3
 https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe (windows)
@@ -15,7 +14,7 @@ install loguru
 install websockets_proxy
 ```pip install websockets_proxy```
 
-## register: https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk](https://app.getgrass.io/register/?referralCode=SBaTYWGh9QMd09B ( use this link instead! )
+## register: https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk ( use this link instead! )
 
 ## how to use
 
